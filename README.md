@@ -46,7 +46,7 @@ I currently work as a full-stack developer at CERS, where I have focused on deve
 - [E-commerce](https://github.com/JoaoHenrique9/ecommerce): Full-stack e-commerce application, including web front-end, back-end, and database..
 - [DS Deliver](https://github.com/JoaoHenrique9/dsdeliver-sds2): A food ordering and delivery application built with React, React Native, Spring Boot, and PostgreSQL.
 - [Microservices Course](https://github.com/JoaoHenrique9/ms-course): A course on microservices architecture built with Spring Boot and Docker.
-- [Laravel Tips](https://github.com/JoaoHenrique9/laravel-tips): A collection of tips and tricks for working with Laravel.
+<!-- - [Laravel Tips](https://github.com/JoaoHenrique9/laravel-tips): A collection of tips and tricks for working with Laravel. -->
 
 ## 📫 Contact
 
